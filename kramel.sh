@@ -13,7 +13,7 @@
 # Some Placeholders: [!] [*] [✓] [✗]
 
 # Default defconfig to use for builds.
-export CONFIG=nethunhter-op8_defconfig
+export CONFIG=nethunter-op8_defconfig
 
 # Default directory where kernel is located in.
 KDIR=$(pwd)
