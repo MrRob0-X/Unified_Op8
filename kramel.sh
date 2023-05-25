@@ -107,7 +107,6 @@ elif [[ "${COMPILER}" = clang ]]; then
 	O=out
         CROSS_COMPILE=aarch64-linux-gnu-
         CROSS_COMPILE_ARM32=arm-linux-gnueabi-
-	LD=ld.lld
 	AR=llvm-ar
 	AS=llvm-as
 	NM=llvm-nm
