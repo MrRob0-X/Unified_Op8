@@ -37,7 +37,7 @@ export COMMIT_HASH
 
 # Telegram Information. Set 1 to enable. | Set 0 to disable.
 export TGI=1
-export CHATID=1917481396
+export CHATID=6010949455
 
 # Necessary variables to be exported.
 export ci
